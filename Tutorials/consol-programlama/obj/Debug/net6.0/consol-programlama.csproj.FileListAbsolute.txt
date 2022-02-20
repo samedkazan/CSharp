@@ -1,0 +1,15 @@
+D:\Pc\Yazılım Geliştirme\C#\consol-programlama\bin\Debug\net6.0\consol-programlama.exe
+D:\Pc\Yazılım Geliştirme\C#\consol-programlama\bin\Debug\net6.0\consol-programlama.deps.json
+D:\Pc\Yazılım Geliştirme\C#\consol-programlama\bin\Debug\net6.0\consol-programlama.runtimeconfig.json
+D:\Pc\Yazılım Geliştirme\C#\consol-programlama\bin\Debug\net6.0\consol-programlama.dll
+D:\Pc\Yazılım Geliştirme\C#\consol-programlama\bin\Debug\net6.0\ref\consol-programlama.dll
+D:\Pc\Yazılım Geliştirme\C#\consol-programlama\bin\Debug\net6.0\consol-programlama.pdb
+D:\Pc\Yazılım Geliştirme\C#\consol-programlama\obj\Debug\net6.0\consol-programlama.csproj.AssemblyReference.cache
+D:\Pc\Yazılım Geliştirme\C#\consol-programlama\obj\Debug\net6.0\consol-programlama.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pc\Yazılım Geliştirme\C#\consol-programlama\obj\Debug\net6.0\consol-programlama.AssemblyInfoInputs.cache
+D:\Pc\Yazılım Geliştirme\C#\consol-programlama\obj\Debug\net6.0\consol-programlama.AssemblyInfo.cs
+D:\Pc\Yazılım Geliştirme\C#\consol-programlama\obj\Debug\net6.0\consol-programlama.csproj.CoreCompileInputs.cache
+D:\Pc\Yazılım Geliştirme\C#\consol-programlama\obj\Debug\net6.0\consol-programlama.dll
+D:\Pc\Yazılım Geliştirme\C#\consol-programlama\obj\Debug\net6.0\ref\consol-programlama.dll
+D:\Pc\Yazılım Geliştirme\C#\consol-programlama\obj\Debug\net6.0\consol-programlama.pdb
+D:\Pc\Yazılım Geliştirme\C#\consol-programlama\obj\Debug\net6.0\consol-programlama.genruntimeconfig.cache
