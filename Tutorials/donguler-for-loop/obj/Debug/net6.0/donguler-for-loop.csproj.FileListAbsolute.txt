@@ -1,0 +1,15 @@
+D:\Pc\Yazılım Geliştirme\C#\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.exe
+D:\Pc\Yazılım Geliştirme\C#\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.deps.json
+D:\Pc\Yazılım Geliştirme\C#\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.runtimeconfig.json
+D:\Pc\Yazılım Geliştirme\C#\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.dll
+D:\Pc\Yazılım Geliştirme\C#\donguler-for-loop\bin\Debug\net6.0\ref\donguler-for-loop.dll
+D:\Pc\Yazılım Geliştirme\C#\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.pdb
+D:\Pc\Yazılım Geliştirme\C#\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.csproj.AssemblyReference.cache
+D:\Pc\Yazılım Geliştirme\C#\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pc\Yazılım Geliştirme\C#\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.AssemblyInfoInputs.cache
+D:\Pc\Yazılım Geliştirme\C#\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.AssemblyInfo.cs
+D:\Pc\Yazılım Geliştirme\C#\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.csproj.CoreCompileInputs.cache
+D:\Pc\Yazılım Geliştirme\C#\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.dll
+D:\Pc\Yazılım Geliştirme\C#\donguler-for-loop\obj\Debug\net6.0\ref\donguler-for-loop.dll
+D:\Pc\Yazılım Geliştirme\C#\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.pdb
+D:\Pc\Yazılım Geliştirme\C#\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.genruntimeconfig.cache
