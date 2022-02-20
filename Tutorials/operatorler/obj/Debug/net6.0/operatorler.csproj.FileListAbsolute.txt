@@ -1,0 +1,15 @@
+D:\Pc\Yazılım Geliştirme\C#\operatorler\bin\Debug\net6.0\operatorler.exe
+D:\Pc\Yazılım Geliştirme\C#\operatorler\bin\Debug\net6.0\operatorler.deps.json
+D:\Pc\Yazılım Geliştirme\C#\operatorler\bin\Debug\net6.0\operatorler.runtimeconfig.json
+D:\Pc\Yazılım Geliştirme\C#\operatorler\bin\Debug\net6.0\operatorler.dll
+D:\Pc\Yazılım Geliştirme\C#\operatorler\bin\Debug\net6.0\ref\operatorler.dll
+D:\Pc\Yazılım Geliştirme\C#\operatorler\bin\Debug\net6.0\operatorler.pdb
+D:\Pc\Yazılım Geliştirme\C#\operatorler\obj\Debug\net6.0\operatorler.csproj.AssemblyReference.cache
+D:\Pc\Yazılım Geliştirme\C#\operatorler\obj\Debug\net6.0\operatorler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pc\Yazılım Geliştirme\C#\operatorler\obj\Debug\net6.0\operatorler.AssemblyInfoInputs.cache
+D:\Pc\Yazılım Geliştirme\C#\operatorler\obj\Debug\net6.0\operatorler.AssemblyInfo.cs
+D:\Pc\Yazılım Geliştirme\C#\operatorler\obj\Debug\net6.0\operatorler.csproj.CoreCompileInputs.cache
+D:\Pc\Yazılım Geliştirme\C#\operatorler\obj\Debug\net6.0\operatorler.dll
+D:\Pc\Yazılım Geliştirme\C#\operatorler\obj\Debug\net6.0\ref\operatorler.dll
+D:\Pc\Yazılım Geliştirme\C#\operatorler\obj\Debug\net6.0\operatorler.pdb
+D:\Pc\Yazılım Geliştirme\C#\operatorler\obj\Debug\net6.0\operatorler.genruntimeconfig.cache
