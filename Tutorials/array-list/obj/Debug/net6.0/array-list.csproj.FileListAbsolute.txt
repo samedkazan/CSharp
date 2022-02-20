@@ -1,0 +1,15 @@
+D:\Pc\Yazılım Geliştirme\C#\array-list\obj\Debug\net6.0\array-list.csproj.AssemblyReference.cache
+D:\Pc\Yazılım Geliştirme\C#\array-list\obj\Debug\net6.0\array-list.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pc\Yazılım Geliştirme\C#\array-list\obj\Debug\net6.0\array-list.AssemblyInfoInputs.cache
+D:\Pc\Yazılım Geliştirme\C#\array-list\obj\Debug\net6.0\array-list.AssemblyInfo.cs
+D:\Pc\Yazılım Geliştirme\C#\array-list\obj\Debug\net6.0\array-list.csproj.CoreCompileInputs.cache
+D:\Pc\Yazılım Geliştirme\C#\array-list\bin\Debug\net6.0\array-list.exe
+D:\Pc\Yazılım Geliştirme\C#\array-list\bin\Debug\net6.0\array-list.deps.json
+D:\Pc\Yazılım Geliştirme\C#\array-list\bin\Debug\net6.0\array-list.runtimeconfig.json
+D:\Pc\Yazılım Geliştirme\C#\array-list\bin\Debug\net6.0\array-list.dll
+D:\Pc\Yazılım Geliştirme\C#\array-list\bin\Debug\net6.0\ref\array-list.dll
+D:\Pc\Yazılım Geliştirme\C#\array-list\bin\Debug\net6.0\array-list.pdb
+D:\Pc\Yazılım Geliştirme\C#\array-list\obj\Debug\net6.0\array-list.dll
+D:\Pc\Yazılım Geliştirme\C#\array-list\obj\Debug\net6.0\ref\array-list.dll
+D:\Pc\Yazılım Geliştirme\C#\array-list\obj\Debug\net6.0\array-list.pdb
+D:\Pc\Yazılım Geliştirme\C#\array-list\obj\Debug\net6.0\array-list.genruntimeconfig.cache
