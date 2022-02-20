@@ -1,0 +1,15 @@
+D:\Pc\Yazılım Geliştirme\C#\degiskenler\bin\Debug\net6.0\degiskenler.exe
+D:\Pc\Yazılım Geliştirme\C#\degiskenler\bin\Debug\net6.0\degiskenler.deps.json
+D:\Pc\Yazılım Geliştirme\C#\degiskenler\bin\Debug\net6.0\degiskenler.runtimeconfig.json
+D:\Pc\Yazılım Geliştirme\C#\degiskenler\bin\Debug\net6.0\degiskenler.dll
+D:\Pc\Yazılım Geliştirme\C#\degiskenler\bin\Debug\net6.0\ref\degiskenler.dll
+D:\Pc\Yazılım Geliştirme\C#\degiskenler\bin\Debug\net6.0\degiskenler.pdb
+D:\Pc\Yazılım Geliştirme\C#\degiskenler\obj\Debug\net6.0\degiskenler.csproj.AssemblyReference.cache
+D:\Pc\Yazılım Geliştirme\C#\degiskenler\obj\Debug\net6.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pc\Yazılım Geliştirme\C#\degiskenler\obj\Debug\net6.0\degiskenler.AssemblyInfoInputs.cache
+D:\Pc\Yazılım Geliştirme\C#\degiskenler\obj\Debug\net6.0\degiskenler.AssemblyInfo.cs
+D:\Pc\Yazılım Geliştirme\C#\degiskenler\obj\Debug\net6.0\degiskenler.csproj.CoreCompileInputs.cache
+D:\Pc\Yazılım Geliştirme\C#\degiskenler\obj\Debug\net6.0\degiskenler.dll
+D:\Pc\Yazılım Geliştirme\C#\degiskenler\obj\Debug\net6.0\ref\degiskenler.dll
+D:\Pc\Yazılım Geliştirme\C#\degiskenler\obj\Debug\net6.0\degiskenler.pdb
+D:\Pc\Yazılım Geliştirme\C#\degiskenler\obj\Debug\net6.0\degiskenler.genruntimeconfig.cache
