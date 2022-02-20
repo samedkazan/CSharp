@@ -1,0 +1,15 @@
+D:\Pc\Yazılım Geliştirme\C#\recursive-extension-metotlar\bin\Debug\net6.0\recursive-extension-metotlar.exe
+D:\Pc\Yazılım Geliştirme\C#\recursive-extension-metotlar\bin\Debug\net6.0\recursive-extension-metotlar.deps.json
+D:\Pc\Yazılım Geliştirme\C#\recursive-extension-metotlar\bin\Debug\net6.0\recursive-extension-metotlar.runtimeconfig.json
+D:\Pc\Yazılım Geliştirme\C#\recursive-extension-metotlar\bin\Debug\net6.0\recursive-extension-metotlar.dll
+D:\Pc\Yazılım Geliştirme\C#\recursive-extension-metotlar\bin\Debug\net6.0\ref\recursive-extension-metotlar.dll
+D:\Pc\Yazılım Geliştirme\C#\recursive-extension-metotlar\bin\Debug\net6.0\recursive-extension-metotlar.pdb
+D:\Pc\Yazılım Geliştirme\C#\recursive-extension-metotlar\obj\Debug\net6.0\recursive-extension-metotlar.csproj.AssemblyReference.cache
+D:\Pc\Yazılım Geliştirme\C#\recursive-extension-metotlar\obj\Debug\net6.0\recursive-extension-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pc\Yazılım Geliştirme\C#\recursive-extension-metotlar\obj\Debug\net6.0\recursive-extension-metotlar.AssemblyInfoInputs.cache
+D:\Pc\Yazılım Geliştirme\C#\recursive-extension-metotlar\obj\Debug\net6.0\recursive-extension-metotlar.AssemblyInfo.cs
+D:\Pc\Yazılım Geliştirme\C#\recursive-extension-metotlar\obj\Debug\net6.0\recursive-extension-metotlar.csproj.CoreCompileInputs.cache
+D:\Pc\Yazılım Geliştirme\C#\recursive-extension-metotlar\obj\Debug\net6.0\recursive-extension-metotlar.dll
+D:\Pc\Yazılım Geliştirme\C#\recursive-extension-metotlar\obj\Debug\net6.0\ref\recursive-extension-metotlar.dll
+D:\Pc\Yazılım Geliştirme\C#\recursive-extension-metotlar\obj\Debug\net6.0\recursive-extension-metotlar.pdb
+D:\Pc\Yazılım Geliştirme\C#\recursive-extension-metotlar\obj\Debug\net6.0\recursive-extension-metotlar.genruntimeconfig.cache
