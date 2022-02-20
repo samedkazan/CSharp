@@ -1,0 +1,15 @@
+D:\Pc\Yazılım Geliştirme\C#\hazir-metotlar-string-metotlar\bin\Debug\net6.0\hazir-metotlar-string-metotlar.exe
+D:\Pc\Yazılım Geliştirme\C#\hazir-metotlar-string-metotlar\bin\Debug\net6.0\hazir-metotlar-string-metotlar.deps.json
+D:\Pc\Yazılım Geliştirme\C#\hazir-metotlar-string-metotlar\bin\Debug\net6.0\hazir-metotlar-string-metotlar.runtimeconfig.json
+D:\Pc\Yazılım Geliştirme\C#\hazir-metotlar-string-metotlar\bin\Debug\net6.0\hazir-metotlar-string-metotlar.dll
+D:\Pc\Yazılım Geliştirme\C#\hazir-metotlar-string-metotlar\bin\Debug\net6.0\ref\hazir-metotlar-string-metotlar.dll
+D:\Pc\Yazılım Geliştirme\C#\hazir-metotlar-string-metotlar\bin\Debug\net6.0\hazir-metotlar-string-metotlar.pdb
+D:\Pc\Yazılım Geliştirme\C#\hazir-metotlar-string-metotlar\obj\Debug\net6.0\hazir-metotlar-string-metotlar.csproj.AssemblyReference.cache
+D:\Pc\Yazılım Geliştirme\C#\hazir-metotlar-string-metotlar\obj\Debug\net6.0\hazir-metotlar-string-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pc\Yazılım Geliştirme\C#\hazir-metotlar-string-metotlar\obj\Debug\net6.0\hazir-metotlar-string-metotlar.AssemblyInfoInputs.cache
+D:\Pc\Yazılım Geliştirme\C#\hazir-metotlar-string-metotlar\obj\Debug\net6.0\hazir-metotlar-string-metotlar.AssemblyInfo.cs
+D:\Pc\Yazılım Geliştirme\C#\hazir-metotlar-string-metotlar\obj\Debug\net6.0\hazir-metotlar-string-metotlar.csproj.CoreCompileInputs.cache
+D:\Pc\Yazılım Geliştirme\C#\hazir-metotlar-string-metotlar\obj\Debug\net6.0\hazir-metotlar-string-metotlar.dll
+D:\Pc\Yazılım Geliştirme\C#\hazir-metotlar-string-metotlar\obj\Debug\net6.0\ref\hazir-metotlar-string-metotlar.dll
+D:\Pc\Yazılım Geliştirme\C#\hazir-metotlar-string-metotlar\obj\Debug\net6.0\hazir-metotlar-string-metotlar.pdb
+D:\Pc\Yazılım Geliştirme\C#\hazir-metotlar-string-metotlar\obj\Debug\net6.0\hazir-metotlar-string-metotlar.genruntimeconfig.cache
