@@ -1,0 +1,15 @@
+D:\Pc\Yazılım Geliştirme\C#\metotlar\bin\Debug\net6.0\metotlar.exe
+D:\Pc\Yazılım Geliştirme\C#\metotlar\bin\Debug\net6.0\metotlar.deps.json
+D:\Pc\Yazılım Geliştirme\C#\metotlar\bin\Debug\net6.0\metotlar.runtimeconfig.json
+D:\Pc\Yazılım Geliştirme\C#\metotlar\bin\Debug\net6.0\metotlar.dll
+D:\Pc\Yazılım Geliştirme\C#\metotlar\bin\Debug\net6.0\ref\metotlar.dll
+D:\Pc\Yazılım Geliştirme\C#\metotlar\bin\Debug\net6.0\metotlar.pdb
+D:\Pc\Yazılım Geliştirme\C#\metotlar\obj\Debug\net6.0\metotlar.csproj.AssemblyReference.cache
+D:\Pc\Yazılım Geliştirme\C#\metotlar\obj\Debug\net6.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pc\Yazılım Geliştirme\C#\metotlar\obj\Debug\net6.0\metotlar.AssemblyInfoInputs.cache
+D:\Pc\Yazılım Geliştirme\C#\metotlar\obj\Debug\net6.0\metotlar.AssemblyInfo.cs
+D:\Pc\Yazılım Geliştirme\C#\metotlar\obj\Debug\net6.0\metotlar.csproj.CoreCompileInputs.cache
+D:\Pc\Yazılım Geliştirme\C#\metotlar\obj\Debug\net6.0\metotlar.dll
+D:\Pc\Yazılım Geliştirme\C#\metotlar\obj\Debug\net6.0\ref\metotlar.dll
+D:\Pc\Yazılım Geliştirme\C#\metotlar\obj\Debug\net6.0\metotlar.pdb
+D:\Pc\Yazılım Geliştirme\C#\metotlar\obj\Debug\net6.0\metotlar.genruntimeconfig.cache
