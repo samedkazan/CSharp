@@ -1,0 +1,15 @@
+D:\Pc\Yazılım Geliştirme\C#\InstanceFieldProperty\bin\Debug\net6.0\InstanceFieldProperty.exe
+D:\Pc\Yazılım Geliştirme\C#\InstanceFieldProperty\bin\Debug\net6.0\InstanceFieldProperty.deps.json
+D:\Pc\Yazılım Geliştirme\C#\InstanceFieldProperty\bin\Debug\net6.0\InstanceFieldProperty.runtimeconfig.json
+D:\Pc\Yazılım Geliştirme\C#\InstanceFieldProperty\bin\Debug\net6.0\InstanceFieldProperty.dll
+D:\Pc\Yazılım Geliştirme\C#\InstanceFieldProperty\bin\Debug\net6.0\ref\InstanceFieldProperty.dll
+D:\Pc\Yazılım Geliştirme\C#\InstanceFieldProperty\bin\Debug\net6.0\InstanceFieldProperty.pdb
+D:\Pc\Yazılım Geliştirme\C#\InstanceFieldProperty\obj\Debug\net6.0\InstanceFieldProperty.csproj.AssemblyReference.cache
+D:\Pc\Yazılım Geliştirme\C#\InstanceFieldProperty\obj\Debug\net6.0\InstanceFieldProperty.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pc\Yazılım Geliştirme\C#\InstanceFieldProperty\obj\Debug\net6.0\InstanceFieldProperty.AssemblyInfoInputs.cache
+D:\Pc\Yazılım Geliştirme\C#\InstanceFieldProperty\obj\Debug\net6.0\InstanceFieldProperty.AssemblyInfo.cs
+D:\Pc\Yazılım Geliştirme\C#\InstanceFieldProperty\obj\Debug\net6.0\InstanceFieldProperty.csproj.CoreCompileInputs.cache
+D:\Pc\Yazılım Geliştirme\C#\InstanceFieldProperty\obj\Debug\net6.0\InstanceFieldProperty.dll
+D:\Pc\Yazılım Geliştirme\C#\InstanceFieldProperty\obj\Debug\net6.0\ref\InstanceFieldProperty.dll
+D:\Pc\Yazılım Geliştirme\C#\InstanceFieldProperty\obj\Debug\net6.0\InstanceFieldProperty.pdb
+D:\Pc\Yazılım Geliştirme\C#\InstanceFieldProperty\obj\Debug\net6.0\InstanceFieldProperty.genruntimeconfig.cache
