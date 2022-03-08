@@ -1,0 +1,15 @@
+D:\Pc\Yazılım Geliştirme\C#\EncapsulationProperty\bin\Debug\net6.0\EncapsulationProperty.exe
+D:\Pc\Yazılım Geliştirme\C#\EncapsulationProperty\bin\Debug\net6.0\EncapsulationProperty.deps.json
+D:\Pc\Yazılım Geliştirme\C#\EncapsulationProperty\bin\Debug\net6.0\EncapsulationProperty.runtimeconfig.json
+D:\Pc\Yazılım Geliştirme\C#\EncapsulationProperty\bin\Debug\net6.0\EncapsulationProperty.dll
+D:\Pc\Yazılım Geliştirme\C#\EncapsulationProperty\bin\Debug\net6.0\ref\EncapsulationProperty.dll
+D:\Pc\Yazılım Geliştirme\C#\EncapsulationProperty\bin\Debug\net6.0\EncapsulationProperty.pdb
+D:\Pc\Yazılım Geliştirme\C#\EncapsulationProperty\obj\Debug\net6.0\EncapsulationProperty.csproj.AssemblyReference.cache
+D:\Pc\Yazılım Geliştirme\C#\EncapsulationProperty\obj\Debug\net6.0\EncapsulationProperty.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pc\Yazılım Geliştirme\C#\EncapsulationProperty\obj\Debug\net6.0\EncapsulationProperty.AssemblyInfoInputs.cache
+D:\Pc\Yazılım Geliştirme\C#\EncapsulationProperty\obj\Debug\net6.0\EncapsulationProperty.AssemblyInfo.cs
+D:\Pc\Yazılım Geliştirme\C#\EncapsulationProperty\obj\Debug\net6.0\EncapsulationProperty.csproj.CoreCompileInputs.cache
+D:\Pc\Yazılım Geliştirme\C#\EncapsulationProperty\obj\Debug\net6.0\EncapsulationProperty.dll
+D:\Pc\Yazılım Geliştirme\C#\EncapsulationProperty\obj\Debug\net6.0\ref\EncapsulationProperty.dll
+D:\Pc\Yazılım Geliştirme\C#\EncapsulationProperty\obj\Debug\net6.0\EncapsulationProperty.pdb
+D:\Pc\Yazılım Geliştirme\C#\EncapsulationProperty\obj\Debug\net6.0\EncapsulationProperty.genruntimeconfig.cache
