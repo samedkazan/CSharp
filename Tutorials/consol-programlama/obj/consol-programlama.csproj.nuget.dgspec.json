@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Pc\\Yazılım Geliştirme\\C#\\consol-programlama\\consol-programlama.csproj": {}
+    "D:\\Pc\\Belgeler\\Github\\CSharp\\Tutorials\\consol-programlama\\consol-programlama.csproj": {}
   },
   "projects": {
-    "D:\\Pc\\Yazılım Geliştirme\\C#\\consol-programlama\\consol-programlama.csproj": {
+    "D:\\Pc\\Belgeler\\Github\\CSharp\\Tutorials\\consol-programlama\\consol-programlama.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pc\\Yazılım Geliştirme\\C#\\consol-programlama\\consol-programlama.csproj",
+        "projectUniqueName": "D:\\Pc\\Belgeler\\Github\\CSharp\\Tutorials\\consol-programlama\\consol-programlama.csproj",
         "projectName": "consol-programlama",
-        "projectPath": "D:\\Pc\\Yazılım Geliştirme\\C#\\consol-programlama\\consol-programlama.csproj",
+        "projectPath": "D:\\Pc\\Belgeler\\Github\\CSharp\\Tutorials\\consol-programlama\\consol-programlama.csproj",
         "packagesPath": "C:\\Users\\Samed\\.nuget\\packages\\",
-        "outputPath": "D:\\Pc\\Yazılım Geliştirme\\C#\\consol-programlama\\obj\\",
+        "outputPath": "D:\\Pc\\Belgeler\\Github\\CSharp\\Tutorials\\consol-programlama\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Samed\\AppData\\Roaming\\NuGet\\NuGet.Config"
