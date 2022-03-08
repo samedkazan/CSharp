@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Pc\\Yazılım Geliştirme\\C#\\Algoritma soruları\\Algoritma soruları.csproj": {}
+    "D:\\Pc\\Belgeler\\Github\\CSharp\\Tutorials\\Algoritma soruları\\Algoritma soruları.csproj": {}
   },
   "projects": {
-    "D:\\Pc\\Yazılım Geliştirme\\C#\\Algoritma soruları\\Algoritma soruları.csproj": {
+    "D:\\Pc\\Belgeler\\Github\\CSharp\\Tutorials\\Algoritma soruları\\Algoritma soruları.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pc\\Yazılım Geliştirme\\C#\\Algoritma soruları\\Algoritma soruları.csproj",
+        "projectUniqueName": "D:\\Pc\\Belgeler\\Github\\CSharp\\Tutorials\\Algoritma soruları\\Algoritma soruları.csproj",
         "projectName": "Algoritma soruları",
-        "projectPath": "D:\\Pc\\Yazılım Geliştirme\\C#\\Algoritma soruları\\Algoritma soruları.csproj",
+        "projectPath": "D:\\Pc\\Belgeler\\Github\\CSharp\\Tutorials\\Algoritma soruları\\Algoritma soruları.csproj",
         "packagesPath": "C:\\Users\\Samed\\.nuget\\packages\\",
-        "outputPath": "D:\\Pc\\Yazılım Geliştirme\\C#\\Algoritma soruları\\obj\\",
+        "outputPath": "D:\\Pc\\Belgeler\\Github\\CSharp\\Tutorials\\Algoritma soruları\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Samed\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+D:\Pc\Belgeler\Github\CSharp\Tutorials\Algoritma soruları\bin\Debug\net6.0\Algoritma soruları.exe
+D:\Pc\Belgeler\Github\CSharp\Tutorials\Algoritma soruları\bin\Debug\net6.0\Algoritma soruları.deps.json
+D:\Pc\Belgeler\Github\CSharp\Tutorials\Algoritma soruları\bin\Debug\net6.0\Algoritma soruları.runtimeconfig.json
+D:\Pc\Belgeler\Github\CSharp\Tutorials\Algoritma soruları\bin\Debug\net6.0\Algoritma soruları.dll
+D:\Pc\Belgeler\Github\CSharp\Tutorials\Algoritma soruları\bin\Debug\net6.0\ref\Algoritma soruları.dll
+D:\Pc\Belgeler\Github\CSharp\Tutorials\Algoritma soruları\bin\Debug\net6.0\Algoritma soruları.pdb
+D:\Pc\Belgeler\Github\CSharp\Tutorials\Algoritma soruları\obj\Debug\net6.0\Algoritma soruları.csproj.AssemblyReference.cache
+D:\Pc\Belgeler\Github\CSharp\Tutorials\Algoritma soruları\obj\Debug\net6.0\Algoritma soruları.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pc\Belgeler\Github\CSharp\Tutorials\Algoritma soruları\obj\Debug\net6.0\Algoritma soruları.AssemblyInfoInputs.cache
+D:\Pc\Belgeler\Github\CSharp\Tutorials\Algoritma soruları\obj\Debug\net6.0\Algoritma soruları.AssemblyInfo.cs
+D:\Pc\Belgeler\Github\CSharp\Tutorials\Algoritma soruları\obj\Debug\net6.0\Algoritma soruları.csproj.CoreCompileInputs.cache
+D:\Pc\Belgeler\Github\CSharp\Tutorials\Algoritma soruları\obj\Debug\net6.0\Algoritma soruları.dll
+D:\Pc\Belgeler\Github\CSharp\Tutorials\Algoritma soruları\obj\Debug\net6.0\ref\Algoritma soruları.dll
+D:\Pc\Belgeler\Github\CSharp\Tutorials\Algoritma soruları\obj\Debug\net6.0\Algoritma soruları.pdb
+D:\Pc\Belgeler\Github\CSharp\Tutorials\Algoritma soruları\obj\Debug\net6.0\Algoritma soruları.genruntimeconfig.cache
