@@ -1,0 +1,15 @@
+D:\Pc\Yazılım Geliştirme\C#\StaticClassMember\bin\Debug\net6.0\StaticClassMember.exe
+D:\Pc\Yazılım Geliştirme\C#\StaticClassMember\bin\Debug\net6.0\StaticClassMember.deps.json
+D:\Pc\Yazılım Geliştirme\C#\StaticClassMember\bin\Debug\net6.0\StaticClassMember.runtimeconfig.json
+D:\Pc\Yazılım Geliştirme\C#\StaticClassMember\bin\Debug\net6.0\StaticClassMember.dll
+D:\Pc\Yazılım Geliştirme\C#\StaticClassMember\bin\Debug\net6.0\ref\StaticClassMember.dll
+D:\Pc\Yazılım Geliştirme\C#\StaticClassMember\bin\Debug\net6.0\StaticClassMember.pdb
+D:\Pc\Yazılım Geliştirme\C#\StaticClassMember\obj\Debug\net6.0\StaticClassMember.csproj.AssemblyReference.cache
+D:\Pc\Yazılım Geliştirme\C#\StaticClassMember\obj\Debug\net6.0\StaticClassMember.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pc\Yazılım Geliştirme\C#\StaticClassMember\obj\Debug\net6.0\StaticClassMember.AssemblyInfoInputs.cache
+D:\Pc\Yazılım Geliştirme\C#\StaticClassMember\obj\Debug\net6.0\StaticClassMember.AssemblyInfo.cs
+D:\Pc\Yazılım Geliştirme\C#\StaticClassMember\obj\Debug\net6.0\StaticClassMember.csproj.CoreCompileInputs.cache
+D:\Pc\Yazılım Geliştirme\C#\StaticClassMember\obj\Debug\net6.0\StaticClassMember.dll
+D:\Pc\Yazılım Geliştirme\C#\StaticClassMember\obj\Debug\net6.0\ref\StaticClassMember.dll
+D:\Pc\Yazılım Geliştirme\C#\StaticClassMember\obj\Debug\net6.0\StaticClassMember.pdb
+D:\Pc\Yazılım Geliştirme\C#\StaticClassMember\obj\Debug\net6.0\StaticClassMember.genruntimeconfig.cache
