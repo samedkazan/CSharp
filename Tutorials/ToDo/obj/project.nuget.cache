@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RvOyczrwrCgPl0Wd4dJ7FtgRf7jLqo2A28BCKnxIBeD3FqUE5KcMfLsmY2zLzcoj6II3IJSL0XCb33kHu5Edhg==",
+  "success": true,
+  "projectFilePath": "D:\\Pc\\Yazılım Geliştirme\\C#\\ToDo\\ToDo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samed\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

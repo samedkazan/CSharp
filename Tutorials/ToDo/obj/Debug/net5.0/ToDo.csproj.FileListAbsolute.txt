@@ -1,0 +1,16 @@
+D:\Pc\Yazılım Geliştirme\C#\ToDo\bin\Debug\net5.0\ToDo.exe
+D:\Pc\Yazılım Geliştirme\C#\ToDo\bin\Debug\net5.0\ToDo.deps.json
+D:\Pc\Yazılım Geliştirme\C#\ToDo\bin\Debug\net5.0\ToDo.runtimeconfig.json
+D:\Pc\Yazılım Geliştirme\C#\ToDo\bin\Debug\net5.0\ToDo.runtimeconfig.dev.json
+D:\Pc\Yazılım Geliştirme\C#\ToDo\bin\Debug\net5.0\ToDo.dll
+D:\Pc\Yazılım Geliştirme\C#\ToDo\bin\Debug\net5.0\ref\ToDo.dll
+D:\Pc\Yazılım Geliştirme\C#\ToDo\bin\Debug\net5.0\ToDo.pdb
+D:\Pc\Yazılım Geliştirme\C#\ToDo\obj\Debug\net5.0\ToDo.csproj.AssemblyReference.cache
+D:\Pc\Yazılım Geliştirme\C#\ToDo\obj\Debug\net5.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pc\Yazılım Geliştirme\C#\ToDo\obj\Debug\net5.0\ToDo.AssemblyInfoInputs.cache
+D:\Pc\Yazılım Geliştirme\C#\ToDo\obj\Debug\net5.0\ToDo.AssemblyInfo.cs
+D:\Pc\Yazılım Geliştirme\C#\ToDo\obj\Debug\net5.0\ToDo.csproj.CoreCompileInputs.cache
+D:\Pc\Yazılım Geliştirme\C#\ToDo\obj\Debug\net5.0\ToDo.dll
+D:\Pc\Yazılım Geliştirme\C#\ToDo\obj\Debug\net5.0\ref\ToDo.dll
+D:\Pc\Yazılım Geliştirme\C#\ToDo\obj\Debug\net5.0\ToDo.pdb
+D:\Pc\Yazılım Geliştirme\C#\ToDo\obj\Debug\net5.0\ToDo.genruntimeconfig.cache
